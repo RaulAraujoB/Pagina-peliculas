@@ -103,8 +103,7 @@ a {
 .site-header.inicio {
     background-image: linear-gradient(
         rgba(0,0,0,0.3),rgba(0,0,0,0.3)
-    ), url(../img/header.jpg);
-    background-position: center center;
+    ), url(https://as01.epimg.net/meristation/imagenes/2019/10/06/noticias/1570363183_546021_1570363257_noticia_normal.jpg);
     background-size: cover;
     min-height: 60rem;
 }
@@ -245,7 +244,7 @@ a {
 .imagen-contacto {
     background-image: linear-gradient(
         rgba(0,0,0,0.3),rgba(0,0,0,0.3)
-    ), url(../img/encuentra.jpg);
+    ), url(https://pbs.twimg.com/media/DmktBPQX0AARDcR.jpg);
     background-position: center center;
     background-size: cover;
     height: 40rem;
